@@ -1,0 +1,55 @@
+id,question,class
+1,Bạn có tính tự lập,R
+2,Bạn suy nghĩ thực tế,R
+3,Bạn là người thích nghi với môi trường mới,R
+4,"Bạn có thể vận hành, điều khiển các máy móc thiết bị",R
+5,"Bạn làm các công việc thủ công như gấp giấy, đan, móc",R
+6,"Bạn thích tiếp xúc với thiên nhiên, động vật, cây cỏ",R
+7,Bạn thích những công việc sử dụng tay chân hơn là trí óc,R
+8,"Bạn thích làm việc ngoài trời hơn là trong phòng học, văn phòng",R
+9,Bạn thích những công việc thấy ngay kết quả,R
+10,Bạn có tìm hiểu khám phá nhiều vấn đề mới,I
+11,Bạn có khả năng phân tích vấn đề,I
+12,"Bạn thích những hoạt động điều tra, phân loại, kiểm tra, đánh giá",I
+13,Bạn thích thực hiện các thí nghiệm hay nghiên cứu,I
+14,Bạn tự tổ chức công việc mình phải làm,I
+15,"Bạn thích suy nghĩ một cách mạch lạc, chặt chẽ",I
+16,"Bạn có khả năng tổng hợp, khái quát, suy đoán những vấn đề",I
+17,"Bạn thích suy nghĩ về những vấn đề phức tạp, làm những công việc phức tạp",I
+18,Bạn có khả năng giải quyết các vấn đề,I
+19,Bạn là người dễ xúc động,A
+20,Bạn có óc tưởng tượng phong phú,A
+21,"Bạn thích sự tự do, không theo những quy định , quy tắc",A
+22,"Bạn có khả năng thuyết trình, diễn xuất",A
+23,"Bạn có thể chụp hình hoặc vẽ tranh, trang trí, điêu khắc",A
+24,Bạn có năng khiếu âm nhạc,A
+25,"Bạn có khả năng viết, trình bày những ý tưởng của mình",A
+26,"Bạn có thể làm những công việc mới, những công việc đòi hỏi sự sáng tạo",A
+27,Bạn thoải mái bộc lộ những ý thích,A
+28,Bạn là người biết lắng nghe,S
+29,"Bạn thích gặp gỡ, làm việc với con người",S
+30,"Bạn là người lịch sự, tử tế",S
+31,"Bạn thường khuyên bảo, huấn luyện hay giảng giải cho người khác",S
+32,"Bạn suy nghĩ phóng khoáng, thân thiện, hay giúp đỡ người khác",S
+33,Bạn thích các hoạt động chăm sóc sức khỏe của bản thân và người khác,S
+34,"Bạn thích các hoạt động vì mục tiêu chung của công đồng, xã hội",S
+35,Bạn mong muốn mình có thể đóng góp để xã hội tốt đẹp hơn,S
+36,"Bạn có khả năng hòa giải, giải quyết những sự viêc mâu thuẫn",S
+37,"Bạn là người có tính phiêu lưu, mạo hiểm",E
+38,Bạn có suy nghĩ quyết đoán,E
+39,Bạn là người năng động,E
+40,"Bạn có khả năng diễn đạt, tranh luận, và thuyết phục người khác",E
+41,"Bạn muốn người khác phải kính trọng, nể phục bạn",E
+42,"Bạn thường đặt ra các mục tiêu, kế hoạch trong cuộc sống",E
+43,Bạn thích gây ảnh hưởng đến người khác,E
+44,"Bạn là người thích cạnh tranh, và muốn mình giói hơn người khác",E
+45,"Bạn thích các việc quản lý, đánh giá",E
+46,"Bạn là người có đầu óc sắp xếp, tổ chức",C 
+47,Bạn có tính cẩn thận,C 
+48,"Bạn là người chu đáo, chính xác và đáng tin cậy",C 
+49,"Bạn thích công việc tính toán sổ sách, ghi chép số liệu",C 
+50,"Bạn thích lập thời khóa biểu, sắp xếp lịch làm việc",C 
+51,"Bạn thường đặt ra những mục tiêu, kế hoạch trong cuộc sống",C 
+52,Bạn thích dự kiến các khoản thu chi,C 
+53,"Bạn thích các công việc lưu trữ, phân loại, cập nhật thông tin",C 
+54,"Bạn thích làm việc với các con số, làm việc theo hướng dẫn, quy trình",C 
